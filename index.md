@@ -1,1 +1,1 @@
-[Table](bridgedb.md)
+[Table](gene_database.md)
