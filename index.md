@@ -1,1 +1,1 @@
-[Table](brdgedb.md)
+[Table](bridgedb.md)
